@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Roboto", sans-serif;
+    color: rgb(86, 94, 91);
+}
+
+p {
+    text-align: justify;
+}
+
+.container {
+    font-family: "Roboto", sans-serif;
+    color: rgb(86, 94, 91);
+    align-content: center;
+}
+
+.skills {
+    font-family: "Roboto", sans-serif;
+    color: rgb(30, 37, 35);
+    text-align: justify;
+}
